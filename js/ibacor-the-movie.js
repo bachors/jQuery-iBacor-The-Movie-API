@@ -1,5 +1,5 @@
 /*********************************************************************
- * #### jQuery-iBacor-The-Movie-API v01 ####
+ * #### jQuery-iBacor-The-Movie-API v01.1 ####
  * Coded by Ican Bachors 2016.
  * http://ibacor.com/labs/jquery-ibacor-the-movie-api
  * Updates will be posted to this site.
