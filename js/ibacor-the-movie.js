@@ -1,3 +1,10 @@
+/*********************************************************************
+ * #### jQuery-iBacor-The-Movie-API v01 ####
+ * Coded by Ican Bachors 2016.
+ * http://ibacor.com/labs/jquery-ibacor-the-movie-api
+ * Updates will be posted to this site.
+ *********************************************************************/
+
 var ibacor_themovie = function(h) {
     var j = getParameterByName('search'),
         get_id = getParameterByName('id');
